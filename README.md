@@ -1,5 +1,6 @@
 # Horiseon Code Refactor Challenge
 
+
 ## Description
 
 This codebase was given by a marketing agency for refactoring, to follow accessibility standards and to optimize their site for search engines.
@@ -18,12 +19,13 @@ This codebase was given by a marketing agency for refactoring, to follow accessi
 
 - [The URL of the deployed application :arrow_right:](https://yousra-kamal.github.io/Horiseon.Code.Refactor/)
 - [The URL of the GitHub repository :arrow_right:](https://github.com/Yousra-Kamal/Horiseon.Code.Refactor)
+  
 
 ## Screenshots
 
-![alt text](/assets/images/Screenshot1.png)
+The following is a screenshot of the final page view after deployment.
 
-![alt text](/assets/images/Screenshot2.png)
+![alt text](/assets/images/Screenshot.png)
 
 ## Installation
 

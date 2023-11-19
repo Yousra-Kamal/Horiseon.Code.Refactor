@@ -10,7 +10,7 @@ body {
   background-color: #d9dcd6;
 }
 
-/* Styles for the header element 
+/* Styles for the header element and its child elements,
 removed header class and used header element instead*/
 header {
   padding: 20px;
@@ -65,7 +65,7 @@ p {
   background-position: center;
 }
 
-/* Styles for the main section,
+/* Styles for the main section and its child elements,
   removed repetitive CSS styles to apply DRY clean code principle,
   organized them to follow the semantic structure of the HTML elements*/
 .content {
@@ -102,7 +102,7 @@ p {
   margin-left: 25px;
 }
 
-/* Styles for the aside section, 
+/* Styles for the aside section and its child elements, 
   removed repetitive  CSS styles to apply DRY clean code principle*/
 .benefits {
   margin-right: 20px;
@@ -131,7 +131,7 @@ p {
   max-width: 150px;
 }
 
-/* Styles for the footer element */
+/* Styles for the footer element and its child elements*/
 .footer {
   padding: 30px;
   clear: both;

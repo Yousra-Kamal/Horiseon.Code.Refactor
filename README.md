@@ -21,8 +21,8 @@ This codebase was given by a marketing agency for refactoring, to follow accessi
 
 ## Screenshots
 
-![alt text](assets\images\Screenshot1.png)
-![alt text](assets\images\Screenshot2.png)
+![alt text](/assets/images/Screenshot1.png)
+![alt text](/assets/images/Screenshot2.png)
 
 ## Installation
 

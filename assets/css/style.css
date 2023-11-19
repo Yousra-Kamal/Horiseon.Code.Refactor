@@ -10,8 +10,9 @@ body {
   background-color: #d9dcd6;
 }
 
-/* Styles for the header element */
-.header {
+/* Styles for the header element 
+removed header class and used header element instead*/
+header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -19,17 +20,17 @@ body {
   color: #ffffff;
 }
 
-.header h1 {
+header h1 {
   display: inline-block;
   font-size: 48px;
 }
 
-.header h1 .seo {
+header h1 .seo {
   color: #d9dcd6;
 }
 
 /* Styles for the navigation */
-.header nav {
+header nav {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
@@ -37,11 +38,11 @@ body {
   font-size: 20px;
 }
 
-.header nav ul {
+header nav ul {
   list-style-type: none;
 }
 
-.header nav ul li {
+header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
